@@ -1,0 +1,31 @@
+m6/24
+;[yyy2]
+yirty4
+uuu2uyyy
+yttyt2i2(r1)
+;[yyy2]
+yirty4
+uuu2uyyy
+iiuyt4(r2 end seg 1)
+
+ruytr3;r.5
+ruyte3;e.5
+eiuyw4(r1)
+ppoui4(r1)
+ruytr3;r.5
+ruyte3;e.5
+iuy;4i(r2)
+oiuyt4(r2)
+(repeat of previous segtion)
+;[yyy2]
+yirty4
+uuu2uyyy
+iiuyt4
+
+ruytr3;r.5
+ruyte3;e.5
+iuy;4i
+oiuyt4
+
+
+

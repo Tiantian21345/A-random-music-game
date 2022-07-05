@@ -1,0 +1,106 @@
+m60/150[po
+popyoi
+t2 eti
+o2 etu
+i2 wpo
+popuoi
+y2 eti
+o2 rpo
+i6popopyoit2 etio2 etui2 wpopopuoiy2 etio2 rpo(after 'i6', it repeats lines2-9)
+y2 tyu
+i3eoi
+u3wiu
+y3tqu
+t2 qp 1
+ qp 2u
+i 2opo
+popyoi
+t2 eti
+o2 tuo
+p2 rpo
+popyoi
+t2 qpo
+i2 1uio
+u2 iopi3eoiu3wiuy3tqut2 qp 2qp 2ui 2opopopyoit2 etio2 tuop2 rpopopyoit2 qpoi2 uio(after 'u2 iop', it repeats from line 12 to 24)
+t2 [q-p][w-p][q-e-p]
+i4p1.5o.5
+[iu]2p1.5o.5
+iuytre
+[wq]2u.1-[ytyu].5
+o4po
+p3opw
+r3[trer].25t1.5e.5
+[rpqprptpypup
+iopoiuytruyr
+epqpwpeprpyp
+upipoiuytrew
+opoioyoioyoi].5
+o3yoi
+o3yo 1
+ ip 2o
+popyoi
+y2 ryo
+p2 tuo
+p2 tpo
+popuoi
+y2 eti
+o2 roi
+y2 iop
+p3epo
+i3qpo
+i3qoi
+i2 qp 1
+ ep 2w
+e 2qwq
+iuituy
+r2 qey
+u2 eti
+o2 qpo
+poproi
+u2 qey
+t2 qyt
+r2 4
+[e-t-u-i]6
+[r-y-o]4[u-o][i-p]
+[r-i-p]2[e-i-p]2
+[o-u-t]6
+[ro]4[e-i][w-u]
+[q-r-y]4[q-y]2
+[q-t][e-u][w-y]
+[q-t]6
+[e-t-u-i]6
+[r-y-o]4[u-o][i-p]
+[u-o]4[u-o]2
+[i-p]6
+[r-o]4[e-i][w-u]
+[w-r-u]4[w-r-y]2
+[w-r-t]4[w-r-t]2
+[q-e-y]4 2
+[w-e-u] 4
+[qetryiuyt
+ryiqetpoi
+qetuopiuy
+uyttreewq
+iuyytrrew].6666
+trtwtr
+q2 qey
+u2 etu
+i2 epo
+iuituy
+r2 qey
+u2 wuy
+t2 yui
+o3eoi
+u3wuy
+t3qyt
+r2 qu 1
+ 1rp 2e
+r 2ere
+rerqre
+w2 qey
+u2 etu
+i2 eoi
+oioyiu
+t2 qey].5
+m60/100[u2 wuy
+t6].5
